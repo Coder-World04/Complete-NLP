@@ -1,4 +1,4 @@
-# Complete-NLP
+# Complete NLP Series
 This repository contains everything you need to become proficient in NLP
 
 ![0_3_MGS2Ls8QcBo-gB](https://user-images.githubusercontent.com/104568275/187154522-c031050a-34e4-4fd4-806e-e8edd92b243b.jpeg)
