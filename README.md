@@ -3,7 +3,7 @@ This repository contains everything you need to become proficient in NLP
 
 ![0_3_MGS2Ls8QcBo-gB](https://user-images.githubusercontent.com/104568275/187154522-c031050a-34e4-4fd4-806e-e8edd92b243b.jpeg)
 
-
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
 
 [Day 1 of 30 Days of Natural Language Processing Series](https://medium.com/coders-mojo/day-1-30-days-of-natural-language-processing-series-with-projects-b29211d5450c)
 
